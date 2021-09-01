@@ -303,7 +303,6 @@
 .u-section-3 .u-group-1 {
   min-height: 138px;
   width: 422px;
-  height: auto;
   margin: 60px auto 0 -110px;
 }
 
@@ -361,7 +360,6 @@
   .u-section-3 .u-group-1 {
     width: calc(((100% - 940px) / 2) + 441px);
     min-height: 317px;
-    height: auto;
   }
 
   .u-section-3 .u-container-layout-2 {
